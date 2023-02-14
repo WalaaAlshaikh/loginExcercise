@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "833527299104",
+    "project_id": "login-excercise-8873b",
+    "storage_bucket": "login-excercise-8873b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833527299104:android:e863b6b03d9bdf79059045",
+        "android_client_info": {
+          "package_name": "com.example.login_excerise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833527299104-j3utv01sbekt5gtble4f65bdpst4n619.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8C-o56-X4lOjN_gg-ieoBHXw0-_V5t0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833527299104-j3utv01sbekt5gtble4f65bdpst4n619.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

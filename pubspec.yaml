@@ -1,0 +1,104 @@
+name: login_excerise
+description: A new Flutter project.
+
+
+
+publish_to: 'none' 
+
+
+
+
+
+
+
+
+
+
+
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.0-146.2.beta <3.0.0'
+
+
+
+
+
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  
+  
+  cupertino_icons: ^1.0.5
+  google_fonts: ^3.0.1
+  flutter_native_splash: ^2.2.16
+  get: ^4.6.5
+  liquid_swipe: ^3.0.0
+  smooth_page_indicator: ^1.0.0+2
+  flutter_otp_text_field: ^1.1.1
+  firebase_core: ^2.4.0
+  firebase_auth: ^4.2.3
+  line_awesome_flutter: ^2.0.0
+  cloud_firestore: ^4.3.0
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.1
+
+flutter_native_splash:
+  color: "#f7f6f1"
+  color_dark: "#272727"
+  image: assets/images/casual-life-3d-pink-book-in-air.png
+  image_dark: assets/images/casual-life-3d-pink-book-in-air.png
+
+
+
+
+flutter:
+
+  
+  
+  
+  uses-material-design: true
+  assets:
+    - assets/images/
+
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
